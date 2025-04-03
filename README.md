@@ -25,6 +25,7 @@ The analysis is performed using a well-structured music store database, containi
 9. media_type – Defines different media formats for tracks.
 10. playlist – Stores user-created playlists.
 11. playlist_track – Links tracks to playlists.
+12. album2
 
 Technologies Used : 
 
